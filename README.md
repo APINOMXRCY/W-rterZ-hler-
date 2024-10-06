@@ -65,7 +65,7 @@ Diese Website ("Wörter Zähler+") wird unter den folgenden Bedingungen bereitge
    - Die Website darf nicht in ihrer ursprünglichen Form oder einer exakten Kopie veröffentlicht oder hochgeladen werden. Dies schließt das Hochladen auf andere Domains oder Hosting-Dienste ein.
 
 3. **Änderungen und Abwandlungen**:
-   - Wenn Änderungen an der Website vorgenommen werden, muss der ursprüngliche Urheber (Johannes Grof) im Zusammenhang mit der veränderten Version genannt werden. Dies kann in Form eines Hinweises in der Dokumentation oder auf der Website selbst erfolgen.
+   - Wenn Änderungen an der Website vorgenommen werden, muss der ursprüngliche Urheber (NOMXRCY) im Zusammenhang mit der veränderten Version genannt werden. Dies kann in Form eines Hinweises in der Dokumentation oder auf der Website selbst erfolgen.
 
 4. **Credits**:
    - Bei jeder Veröffentlichung oder Verbreitung der Website (in unveränderter oder veränderter Form) müssen die entsprechenden Credits für den ursprünglichen Urheber gegeben werden.
